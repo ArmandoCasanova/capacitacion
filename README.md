@@ -54,3 +54,5 @@ IA integrada: Pasos automatizados que se activan según criterios
 Procesos en paralelo: Múltiples candidatos en diferentes etapas simultáneamente
 
 ¿Cómo crear un sistema donde RH pueda inventar nuevos tipos de pasos, crear flujos condicionales complejos, reutilizar componentes entre procesos, y adaptar dinámicamente según el perfil del candidato?"
+
+https://lucid.app/lucidchart/3662e7b6-ecb9-4e24-b787-e312525890ad/edit?viewport_loc=-891%2C-826%2C3103%2C1681%2C0_0&invitationId=inv_0a3efb65-597b-4ebc-8622-7e05b3c69fa8
